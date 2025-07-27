@@ -22,13 +22,11 @@ Testing: Jest, React Testing Library
 Feel free to check out my work and reach out — I'm always open to collaboration, learning, and new challenges.
 
 <br>
-<br>
 
 # 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmostafa505@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZonseWhakamateBegraben)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owuraka7600/)  
 
-<br>
 <br>
 
 # 🧰 Tech Stack:
@@ -50,8 +48,9 @@ Feel free to check out my work and reach out — I'm always open to collaboratio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+<br>
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmostafa505&show_icons=true&theme=tokyonight)
 
