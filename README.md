@@ -2,7 +2,7 @@
 
 Hi, I'm Mohammad Hossein Mostafa — a passionate Frontend Developer with a love for building clean, responsive, and user-friendly interfaces. I specialize in turning complex problems into intuitive digital experiences using modern web technologies.
 
-🔧 Tech Stack:
+### 🔧 Tech Stack:
 
 Languages: JavaScript, TypeScript, HTML5, CSS3
 
