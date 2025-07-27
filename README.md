@@ -50,7 +50,8 @@ Feel free to check out my work and reach out — I'm always open to collaboratio
 
 <br>
 
-# 📊 GitHub Stats:
+# ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ GitHub Stats:
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmostafa505&show_icons=true&theme=tokyonight)
 
