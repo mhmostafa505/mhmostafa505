@@ -1,4 +1,4 @@
-#👋 About Me
+👋 About Me
 
 Hi, I'm Mohammad Hossein Mostafa — a passionate Frontend Developer with a love for building clean, responsive, and user-friendly interfaces. I specialize in turning complex problems into intuitive digital experiences using modern web technologies.
 
