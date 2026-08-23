@@ -61,7 +61,7 @@ function needsGames() {
 
 <div align="center">
 
-[![Languages and tools](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,docker,git,vite&theme=dark)](https://skillicons.dev)
+[![Languages and tools](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,docker,git,vite,figma,xd&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -71,9 +71,11 @@ function needsGames() {
 
 <div align="center">
 <img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
-<img src="./profile/streak.svg" width="48%" alt="GitHub Streak"/>
-<br>
 <img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmostafa505&theme=tokyo-night&hide_border=true" width="97%" alt="Contribution Graph"/>
+<br><br>
+<img src="https://raw.githubusercontent.com/mhmostafa505/mhmostafa505/output/github-snake-dark.svg" width="97%" alt="Snake animation"/>
 </div>
 
 <br><br>
