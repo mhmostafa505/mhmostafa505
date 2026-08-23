@@ -127,7 +127,7 @@
           y="15"
           data-testid="description-text"
         >
-          <tspan>E-commerce web app built with React, TypeScript &#38;</tspan><tspan dy="1.5em" x="25">Tailwind CSS &#8212; product listing, cart, and auth, powered</tspan><tspan dy="1.5em" x="25">by React Router, TanStack Query &#38; Axios.</tspan>
+          <tspan>E-commerce web app built with React, TypeScript &#38;</tspan><tspan dy="1.5em" x="25">Tailwind CSS. Features product browsing, cart,</tspan><tspan dy="1.5em" x="25">checkout, and authentication."</tspan>
         </text>
       </g>
       <g data-testid="metadata" style="display: block">
