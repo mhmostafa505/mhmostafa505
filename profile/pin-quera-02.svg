@@ -127,7 +127,7 @@
           y="15"
           data-testid="description-text"
         >
-          <tspan>No description provided</tspan>
+          <tspan>E-commerce react project with few react libraries</tspan>
         </text>
       </g>
       <g data-testid="metadata" style="display: block">
