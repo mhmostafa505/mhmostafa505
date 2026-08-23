@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
-            fill: #eb1f6a;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,17 +22,17 @@
           }
           
     .header {
-      font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #eb1f6a;
+      font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #70a5fd;
       animation: fadeInAnimation 0.8s ease-in-out forwards;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
       .header { font-size: 15.5px; }
     }
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f1f1eb; }
-    .gray { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f1f1eb; }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .gray { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
     .icon {
-      fill: #e28905;
+      fill: #bf91f3;
       display: block;
     }
   
@@ -95,7 +95,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="399"
-          fill="#272822"
+          fill="#1a1b27"
           stroke-opacity="0.0"
         />
 
