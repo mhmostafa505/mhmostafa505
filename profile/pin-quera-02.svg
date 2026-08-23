@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="150"
-        viewBox="0 0 400 150"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -127,11 +127,11 @@
           y="15"
           data-testid="description-text"
         >
-          <tspan>E-commerce web app built with React, TypeScript &#38;</tspan><tspan dy="1.5em" x="25">Tailwind CSS. Features product browsing, cart,</tspan><tspan dy="1.5em" x="25">checkout, and authentication."</tspan>
+          <tspan>E-commerce web app built with React, TypeScript &#38;</tspan><tspan dy="1.5em" x="25">Tailwind CSS</tspan>
         </text>
       </g>
       <g data-testid="metadata" style="display: block">
-        <g transform="translate(211, 75)">
+        <g transform="translate(211, 65)">
           <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3178c6" />
