@@ -2,7 +2,7 @@
 
 **👋 Mohammad Hossein Mostafa**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Learning+JS+Animations)](https://github.com/mhmostafa505)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Exploring+Next.js)](https://github.com/mhmostafa505)
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:mhmostafa505@gmail.com)
@@ -60,26 +60,6 @@ function needsGames() {
 <h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center">
-
-<!-- **Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Styling**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) -->
 
 [![Languages and tools](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,docker,git,vite&theme=dark)](https://skillicons.dev)
 
