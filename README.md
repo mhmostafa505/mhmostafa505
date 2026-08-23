@@ -8,8 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:mhmostafa505@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=3B82F6)](https://t.me/ZonseWhakamateBegraben)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=3B82F6)](https://www.instagram.com/owuraka7600/)
-
-<img src="https://komarev.com/ghpvc/?username=mhmostafa505&style=for-the-badge&color=3B82F6&label=Profile+Views" />
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/whakamate52)
 
 </div>
 
@@ -38,10 +37,10 @@ const mohammad = {
   ],
   learning: ["Next.js", "MongoDB", "Docker"],
   nextGoal: "adding JavaScript-driven animations to my websites",
-  funFact: needsCoffee() ? "☕ always" : "😴",
+  funFact: needsGames() ? "🎮 always" : "😴",
 };
 
-function needsCoffee() {
+function needsGames() {
   return true;
 }
 ```
@@ -49,7 +48,7 @@ function needsCoffee() {
 <br>
 
 - 🎨 Frontend Developer focused on building clean, responsive, user-friendly interfaces
-- ⚛️ Core stack: **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React** (plus a few React libraries along the way)
+- ⚛️ Core stack: **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React** (plus a good number of React libraries along the way)
 - 🚀 Just picked up **Next.js** — still building my first project with it
 - 🍃 Used **MongoDB** as the database in a Next.js course
 - 🐳 Comfortable containerizing projects with **Docker**
@@ -62,7 +61,7 @@ function needsCoffee() {
 
 <div align="center">
 
-**Languages & Frameworks**
+<!-- **Languages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,7 +79,9 @@ function needsCoffee() {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) -->
+
+[![Languages and tools](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,docker,git,vite&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -114,7 +115,8 @@ function needsCoffee() {
 {
   "Email": "mhmostafa505@gmail.com",
   "Telegram": "@ZonseWhakamateBegraben",
-  "Instagram": "@owuraka7600"
+  "Instagram": "@owuraka7600",
+  "Discord": "whakamate52"
 }
 ```
 
