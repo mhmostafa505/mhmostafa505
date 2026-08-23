@@ -70,9 +70,15 @@ function needsGames() {
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-<img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
-<img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
-<br>
+<img src="./profile/stats.svg" height="195" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" height="195" alt="Top Languages"/>
+</div>
+
+<br><br>
+
+<h1 align="center">📈 Contribution Graph</h1>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmostafa505&theme=tokyo-night&hide_border=true" width="97%" alt="Contribution Graph"/>
 <br><br>
 <img src="https://raw.githubusercontent.com/mhmostafa505/mhmostafa505/output/github-snake-dark.svg" width="97%" alt="Snake animation"/>
