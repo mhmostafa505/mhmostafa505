@@ -69,9 +69,16 @@ function needsGames() {
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<div align="center">
+<!-- <div align="center">
 <img src="./profile/stats.svg" height="195" width="48%" alt="GitHub Stats"/>
 <img src="./profile/top-langs.svg" height="195" width="48%" alt="Top Languages"/>
+</div> -->
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhmostafa505&theme=tokyonight" width="48%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhmostafa505&theme=tokyonight" width="48%" alt="Top Languages by Repo"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhmostafa505&theme=tokyonight" width="48%" alt="Top Languages by Commit"/>
 </div>
 
 <br><br>
