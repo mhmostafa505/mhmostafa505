@@ -70,8 +70,8 @@ function needsGames() {
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-<img src="./profile/stats.svg" height="195" alt="GitHub Stats"/>
-<img src="./profile/top-langs.svg" height="195" alt="Top Languages"/>
+<img src="./profile/stats.svg" height="195" width="48%" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" height="195" width="48%" alt="Top Languages"/>
 </div>
 
 <br><br>
@@ -88,11 +88,21 @@ function needsGames() {
 
 <h1 align="center">📌 Featured Projects</h1>
 
-<div align="center">
+<!-- <div align="center">
 
 [![Quera-Bootcamp-Project-02](./profile/pin-quera-02.svg)](https://github.com/mhmostafa505/Quera-Bootcamp-Project-02)
 [![Tweeter_Demo](./profile/pin-tweeter-demo.svg)](https://github.com/Soroush-Eghdami/Tweeter_Demo)
 
+</div> -->
+
+<div align="center">
+  <a href="https://github.com/mhmostafa505/Quera-Bootcamp-Project-02">
+    <img src="./profile/pin-quera-02.svg" height="120" alt="Quera Bootcamp Project 02"/>
+  </a>
+
+  <a href="https://github.com/Soroush-Eghdami/Tweeter_Demo">
+    <img src="./profile/pin-tweeter-demo.svg" height="120" alt="Tweeter Demo"/>
+  </a>
 </div>
 
 <br><br>
